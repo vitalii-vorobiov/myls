@@ -37,4 +37,6 @@ int main(int argc, char** argv) {
             cerr << "The file or directory " << p << " doesn't exist!" << endl;
         }
     }
+
+    return 0;
 }
